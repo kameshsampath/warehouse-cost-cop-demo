@@ -34,6 +34,14 @@ The workflow authenticates to Snowflake using GitHub's OIDC tokens and Snowflake
 > [!TIP]
 > If you have Task installed, run `task` to see all available commands.
 
+---
+
+## 🎬 Demo Video
+
+[![Watch the Demo](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/l9MisysRVZU)
+
+---
+
 ## Setup
 
 ### 0. Fork this repository
